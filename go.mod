@@ -55,6 +55,7 @@ require (
 	github.com/minio/minio-go/v7 v7.0.87
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/sys/mountinfo v0.7.2
+	github.com/namecrane/hoist v0.0.0-20250518004903-a05afbdcb58d
 	github.com/ncw/swift/v2 v2.0.3
 	github.com/oracle/oci-go-sdk/v65 v65.84.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
@@ -196,7 +197,6 @@ require (
 	github.com/minio/xxml v0.0.3 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
-	github.com/namecrane/hoist v0.0.0-20250517055902-f481d32bf7a5 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/panjf2000/ants/v2 v2.9.1 // indirect
 	github.com/pengsrc/go-shared v0.2.1-0.20190131101655-1999055a4a14 // indirect
