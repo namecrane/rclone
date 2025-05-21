@@ -55,7 +55,7 @@ require (
 	github.com/minio/minio-go/v7 v7.0.87
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/sys/mountinfo v0.7.2
-	github.com/namecrane/hoist v0.0.0-20250518004903-a05afbdcb58d
+	github.com/namecrane/hoist v0.0.0-20250521063851-86f31da07e27
 	github.com/ncw/swift/v2 v2.0.3
 	github.com/oracle/oci-go-sdk/v65 v65.84.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible

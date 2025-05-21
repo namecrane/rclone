@@ -495,10 +495,10 @@ github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9G
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
 github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 h1:C3w9PqII01/Oq1c1nUAm88MOHcQC9l5mIlSMApZMrHA=
 github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
-github.com/namecrane/hoist v0.0.0-20250517055902-f481d32bf7a5 h1:8KrFIDSJ8otZQ87QYW7jhqfd7UdoyIVhCYUHvqLw3w8=
-github.com/namecrane/hoist v0.0.0-20250517055902-f481d32bf7a5/go.mod h1:uspXt5vD5bwgvmR8au85J3zZ50adOnDdvBRVFDmq1gE=
 github.com/namecrane/hoist v0.0.0-20250518004903-a05afbdcb58d h1:co9EQCnMj4EJN/VtDrC8MKbXwo86/SM3hre/gjEInTk=
 github.com/namecrane/hoist v0.0.0-20250518004903-a05afbdcb58d/go.mod h1:uspXt5vD5bwgvmR8au85J3zZ50adOnDdvBRVFDmq1gE=
+github.com/namecrane/hoist v0.0.0-20250521063851-86f31da07e27 h1:+ZY5qZ39P/1WlVLj/ClIgnqaqdqbc3mdQKFPpY/Uzaw=
+github.com/namecrane/hoist v0.0.0-20250521063851-86f31da07e27/go.mod h1:uspXt5vD5bwgvmR8au85J3zZ50adOnDdvBRVFDmq1gE=
 github.com/ncw/swift/v2 v2.0.3 h1:8R9dmgFIWs+RiVlisCEfiQiik1hjuR0JnOkLxaP9ihg=
 github.com/ncw/swift/v2 v2.0.3/go.mod h1:cbAO76/ZwcFrFlHdXPjaqWZ9R7Hdar7HpjRXBfbjigk=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
